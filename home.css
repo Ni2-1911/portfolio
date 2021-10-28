@@ -1,0 +1,24 @@
+.image{
+    background-image: url(./1.jpg);
+    height: 55vh;
+    width: 55vh;
+
+    background-repeat: no-repeat;
+    background-size: 55vh;
+    border-radius: 50%;
+    margin: 10vh;
+}
+
+.information{
+    color: white;
+    font: 1.5em sans-serif;
+    text-align: center;
+    float: right;
+    width : 55vw;
+    justify-content: center;
+    padding-top: 160px;
+}
+
+.im{
+    display: flex;
+}
